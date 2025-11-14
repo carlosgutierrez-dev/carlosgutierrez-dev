@@ -15,7 +15,8 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un profesional de Tecnologías de la Información con experiencia en soporte técnico, infraestructura y gestión de accesos.  
+Soy un profesional de Tecnologías de la Información con experiencia en soporte técnico, infraestructura y gestión de accesos, cableado 
+estructurado, instalacion de cámaras, sistemas ERP, inventariado.  
 Me especializo en garantizar la continuidad operativa, resolver incidencias y automatizar tareas mediante herramientas simples pero eficientes.
 
 Me caracterizo por:
@@ -41,7 +42,7 @@ Me caracterizo por:
 ## 🔧 Tecnologías y Herramientas
 
 ### **Lenguajes**
-- Python (scripts, automatización, CLI tools)
+- Python Basico (scripts, automatización, CLI tools)
 - Batch / PowerShell (tareas recurrentes)
 
 ### **Infraestructura & Sistemas**
@@ -52,7 +53,8 @@ Me caracterizo por:
 - Herramientas de monitoreo y soporte
 
 ### **Herramientas**
-- Git / GitHub  
+- SQL
+- Active Directory
 - Help Desk (tickets, incidencias, operaciones)
 - Virtualización básica (VirtualBox / Hyper-V)
 
