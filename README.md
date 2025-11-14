@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x180.png?text=Bienvenido+a+mi+perfil+GitHub" />
+  <img src="https://cdn.pixabay.com/photo/2020/08/09/14/25/business-5475661_1280.jpg" />
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Carlos Alfredo Gutierrez Nina</strong></h1>
