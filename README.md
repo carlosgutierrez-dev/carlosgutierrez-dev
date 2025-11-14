@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Carlos Alfredo Gutierrez Nina</strong></h1>
-<p align="center">Soporte TI | Infraestructura | Automatización con Python | Operaciones Tecnológicas</p>
+<p align="center">Soporte TI | Infraestructura | Automatización | Operaciones Tecnológicas</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Perú-blue" />
@@ -30,9 +30,10 @@ Me caracterizo por:
 
 - **Infraestructura TI**
 - **Redes (nivel básico–intermedio)**
-- **Automatización con Python**
+- **Automatización**
 - **Gestión de accesos y seguridad básica**
 - **Operación de sistemas y soporte al usuario**
+- **Seguridad Informática**
 - **Buenas prácticas TI (ITIL básico)**
 
 ---
@@ -57,29 +58,6 @@ Me caracterizo por:
 
 ---
 
-## 📘 Proyectos Destacados (en progreso)
-
-- 🛠 **Sistema de Tickets Local en Python + PySimpleGUI**  
-  Gestión completa de incidencias e historial.
-
-- ⚡ **Scripts de automatización de tareas TI**  
-  Scripts útiles para operaciones diarias.
-
-- 🗂 **Documentación técnica internal-style**  
-  Guías de soporte y procedimientos.
-
----
-
-## 📂 Qué encontrarás en mis repositorios
-
-- Scripts de automatización (Python, PowerShell, Batch)
-- Proyectos educativos orientados a práctica real
-- Herramientas para soporte TI
-- Ejemplos de infraestructura y documentación
-- Guías técnicas y apuntes
-
----
-
 ## 🎯 Objetivos Profesionales
 
 - Desarrollar herramientas internas que mejoren la eficiencia del área TI.  
@@ -89,20 +67,11 @@ Me caracterizo por:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlosgutierrez-dev&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgutierrez-dev&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contacto
 
-- **Correo:** tu-correo@ejemplo.com  
-- **LinkedIn:** https://www.linkedin.com/in/tu-perfil  
-- **Ubicación:** Perú
+- **Correo:** carlos.m4n@gmail.com / carlos.gutierrez@tecsup.edu.pe  
+- **LinkedIn:** https://www.linkedin.com/in/carlos-alfredo-gutierrez-nina-892297221/
+- **Ubicación:** Arequipa - Perú
 
 ---
 
