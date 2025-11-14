@@ -16,7 +16,7 @@
 ## 🧑‍💻 Sobre mí
 
 Soy un profesional de Tecnologías de la Información con experiencia en soporte técnico, infraestructura y gestión de accesos, cableado 
-estructurado, instalacion de cámaras, sistemas ERP, inventariado.  
+estructurado, instalacion masiva de equipos y software,  instalacion de cámaras, sistemas ERP, inventariado.  
 Me especializo en garantizar la continuidad operativa, resolver incidencias y automatizar tareas mediante herramientas simples pero eficientes.
 
 Me caracterizo por:
