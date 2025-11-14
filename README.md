@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/08/09/14/25/business-5475661_1280.jpg" />
+  <img src="https://cdn.pixabay.com/photo/2021/10/26/23/25/networking-6745295_1280.jpg" />
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Carlos Alfredo Gutierrez Nina</strong></h1>
